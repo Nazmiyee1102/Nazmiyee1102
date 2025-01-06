@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Nazmiyee! 👋
 
-<!--
-**Nazmiyee1102/Nazmiyee1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves to create and contribute to amazing projects. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on various open-source projects.
+- 🌱 I’m constantly learning and exploring new technologies.
+- 💬 Ask me about anything related to web development, programming languages, or software engineering.
+- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- ⚡ Fun fact: I enjoy hiking and photography in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Python, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker, VS Code, JIRA
+
+## 📈 GitHub Stats
+![Nazmiyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazmiyee1102&show_icons=true&theme=radical)
+
+## 🏆 Top Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmiyee1102&repo=your-top-repo&theme=radical)](https://github.com/Nazmiyee1102/your-top-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmiyee1102&repo=another-top-repo&theme=radical)](https://github.com/Nazmiyee1102/another-top-repo)
+
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/nazmiye-kurban-b29694270/)
+
+Thanks for visiting my profile! Have a great day! 😄
